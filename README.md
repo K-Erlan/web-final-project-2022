@@ -1,9 +1,9 @@
 # web-final-project-2022
 
-## Participants:Saparaliev Baiel, Kerimbekov Erlan
-
-## This project maded to Ala-Too students
-## There in this web-site they can add and sell theirs products.
+### Participants:Saparaliev Baiel, Kerimbekov Erlan
+###
+### This project maded to Ala-Too students
+### There in this web-site they can add and sell theirs products.
 
 ### There you can see screenshots of this web-site
 ![bandicam 2022-06-09 16-14-38-980](https://user-images.githubusercontent.com/73570898/172825635-4ec64d4b-e55b-423e-aed2-7d12f91d478c.jpg)
