@@ -1,6 +1,6 @@
 <#macro template user>
     <!doctype html>
-    <html lang="ru">
+    <html lang="en">
     <head>
         <!-- Required meta tags -->
         <meta charset="utf-8">
@@ -12,14 +12,14 @@
               integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn"
               crossorigin="anonymous">
 
-        <title>Market place</title>
+        <title>Demo version of dordoi</title>
     </head>
     <body>
     <nav class="navbar navbar-dark bg-dark ">
         <div class="container-fluid">
             <a href="/">
                 <img class="pull-right" src="/static/images/Ala-Too.png" width="100" height="100" >
-                <span class="navbar-brand mb-0 h1">Market place from KG</span>
+                <span class="navbar-brand mb-0 h1">online market</span>
             </a>
             <#if user.email??>
                 <div class="dropdown text-end">
